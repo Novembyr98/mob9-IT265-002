@@ -80,3 +80,5 @@
   - [Tagline 3: e.g., "Vigorously Fun"]
 
 -- **Sketches/Logo**:
+![20250128_112302](https://github.com/user-attachments/assets/ffa02021-f89a-4502-abe3-13ebd8915e12)
+![Untitled287_20250128113659](https://github.com/user-attachments/assets/fd8b737f-80c9-4928-9699-8cae8c587316)
