@@ -1,4 +1,4 @@
-<!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+
 ## Name: Marcus Byrd
 ### Module: 11
 
@@ -6,11 +6,10 @@
 ### Date: [05/10/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [Goal something ] Goal 1
-- [ Goal something ] Goal 2
-- [ Goal Something] Goal 3
--->
+
+- [complete the prototype] Goal 1
+
+
 
 #### Progress
 - **What I accomplished**:
