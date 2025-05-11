@@ -6,7 +6,7 @@
 
 #### Goals for this Module
 
-- [Plans for college] Goal 1
+- [Plans for post-college] Goal 1
 
 
 
